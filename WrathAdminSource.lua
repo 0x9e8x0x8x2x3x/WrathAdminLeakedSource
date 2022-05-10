@@ -3,7 +3,7 @@ local ExecutionTime = tick();
 ------- MAIN SCRIPT -------
 -- Wrath Admin by Zyrex, Dis, Flux
 -- Use /e <Command> to silently use commands
-
+-- Subscribe to me https://www.youtube.com/watch?v=gPqWkm3MeJA
 -- Use /console or F9 or Fn + F9 when you say cmds
 
 
