@@ -4,6 +4,8 @@ local ExecutionTime = tick();
 
 -- All credits for this scripts development goes to Zyrex and no one else.
 
+-- Make sure to subscribe to my yt https://youtu.be/FCwj_xaX5Gk
+
 -- Wrath Admin by Zyrex
 -- Use /e <Command> to silently use commands
 
